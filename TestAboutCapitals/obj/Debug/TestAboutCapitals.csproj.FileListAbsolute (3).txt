@@ -1,0 +1,12 @@
+D:\Programación\Programas\Windows Forms\TestAboutCapitals 2.0\TestAboutCapitals 2.0\bin\Debug\TestAboutCapitals 2.0.exe.config
+D:\Programación\Programas\Windows Forms\TestAboutCapitals 2.0\TestAboutCapitals 2.0\bin\Debug\TestAboutCapitals 2.0.exe
+D:\Programación\Programas\Windows Forms\TestAboutCapitals 2.0\TestAboutCapitals 2.0\bin\Debug\TestAboutCapitals 2.0.pdb
+D:\Programación\Programas\Windows Forms\TestAboutCapitals 2.0\TestAboutCapitals 2.0\obj\Debug\TestAboutCapitals 2.0.csprojAssemblyReference.cache
+D:\Programación\Programas\Windows Forms\TestAboutCapitals 2.0\TestAboutCapitals 2.0\obj\Debug\TestAboutCapitals_2._0.EntryGameMode.resources
+D:\Programación\Programas\Windows Forms\TestAboutCapitals 2.0\TestAboutCapitals 2.0\obj\Debug\TestAboutCapitals_2._0.Properties.Resources.resources
+D:\Programación\Programas\Windows Forms\TestAboutCapitals 2.0\TestAboutCapitals 2.0\obj\Debug\TestAboutCapitals_2._0.RecordEntry.resources
+D:\Programación\Programas\Windows Forms\TestAboutCapitals 2.0\TestAboutCapitals 2.0\obj\Debug\TestAboutCapitals_2._0.Test.resources
+D:\Programación\Programas\Windows Forms\TestAboutCapitals 2.0\TestAboutCapitals 2.0\obj\Debug\TestAboutCapitals 2.0.csproj.GenerateResource.cache
+D:\Programación\Programas\Windows Forms\TestAboutCapitals 2.0\TestAboutCapitals 2.0\obj\Debug\TestAboutCapitals 2.0.csproj.CoreCompileInputs.cache
+D:\Programación\Programas\Windows Forms\TestAboutCapitals 2.0\TestAboutCapitals 2.0\obj\Debug\TestAboutCapitals 2.0.exe
+D:\Programación\Programas\Windows Forms\TestAboutCapitals 2.0\TestAboutCapitals 2.0\obj\Debug\TestAboutCapitals 2.0.pdb

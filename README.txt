@@ -1,8 +1,9 @@
-This is a program to practise the capitals of every country, in English. It was before learning about multithreading on the GUI.
-Este es un programa para practicar las capitales de todos los países, en inglés. ¡Fue antes de aprender más sobre multithreading en el GUI!
+This is a program to practise the capitals of every country, in English.
 
-The music inside the program has rights completely alien to me:
-La música que este programa contiene tiene derechos totalmente ajenos a mi:
+It was before learning about multithreading on the GUI and also before starting to use classes the intended way.
+It is quite a monolithic app, but I wanted to share it.
+
+The music inside the program have reserved rights:
 
 - Main menu music: Gusty Garden Galaxy - Nintendo, Mahito Yokota & Koji Kondo.
 - Stage 1 background music: Try Try Again - Yoko Shimomura.

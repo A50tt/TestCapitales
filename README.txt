@@ -1,7 +1,7 @@
 This is a program to practise the capitals of every country, in English.
 
 It was before learning about multithreading on the GUI and also before starting to use classes the intended way.
-It is quite a monolithic app, but I wanted to share it.
+It is quite a monolithic app, but still I wanted to share it.
 
 You can execute the code with Program.cs or with the .exe file inside.
 

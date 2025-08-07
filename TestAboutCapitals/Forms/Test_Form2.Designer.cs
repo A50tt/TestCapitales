@@ -58,9 +58,10 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
-            this.label1.Location = new System.Drawing.Point(110, 25);
+            this.label1.Location = new System.Drawing.Point(147, 31);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(207, 25);
+            this.label1.Size = new System.Drawing.Size(270, 29);
             this.label1.TabIndex = 0;
             this.label1.Text = "What is the capital of...";
             // 
@@ -68,9 +69,10 @@
             // 
             this.CountryAskedLabel.AutoSize = true;
             this.CountryAskedLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
-            this.CountryAskedLabel.Location = new System.Drawing.Point(46, 65);
+            this.CountryAskedLabel.Location = new System.Drawing.Point(61, 80);
+            this.CountryAskedLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.CountryAskedLabel.Name = "CountryAskedLabel";
-            this.CountryAskedLabel.Size = new System.Drawing.Size(102, 25);
+            this.CountryAskedLabel.Size = new System.Drawing.Size(129, 29);
             this.CountryAskedLabel.TabIndex = 1;
             this.CountryAskedLabel.Text = "0. Country";
             // 
@@ -79,9 +81,10 @@
             this.buttonOption1.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.buttonOption1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonOption1.Font = new System.Drawing.Font("Arial Rounded MT Bold", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonOption1.Location = new System.Drawing.Point(51, 123);
+            this.buttonOption1.Location = new System.Drawing.Point(68, 151);
+            this.buttonOption1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.buttonOption1.Name = "buttonOption1";
-            this.buttonOption1.Size = new System.Drawing.Size(295, 43);
+            this.buttonOption1.Size = new System.Drawing.Size(393, 53);
             this.buttonOption1.TabIndex = 2;
             this.buttonOption1.Text = "Option1";
             this.buttonOption1.UseVisualStyleBackColor = false;
@@ -92,9 +95,10 @@
             this.buttonOption2.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.buttonOption2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonOption2.Font = new System.Drawing.Font("Arial Rounded MT Bold", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonOption2.Location = new System.Drawing.Point(51, 172);
+            this.buttonOption2.Location = new System.Drawing.Point(68, 212);
+            this.buttonOption2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.buttonOption2.Name = "buttonOption2";
-            this.buttonOption2.Size = new System.Drawing.Size(295, 43);
+            this.buttonOption2.Size = new System.Drawing.Size(393, 53);
             this.buttonOption2.TabIndex = 3;
             this.buttonOption2.Text = "Option 2";
             this.buttonOption2.UseVisualStyleBackColor = false;
@@ -105,9 +109,10 @@
             this.buttonOption3.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.buttonOption3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonOption3.Font = new System.Drawing.Font("Arial Rounded MT Bold", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonOption3.Location = new System.Drawing.Point(51, 221);
+            this.buttonOption3.Location = new System.Drawing.Point(68, 272);
+            this.buttonOption3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.buttonOption3.Name = "buttonOption3";
-            this.buttonOption3.Size = new System.Drawing.Size(295, 43);
+            this.buttonOption3.Size = new System.Drawing.Size(393, 53);
             this.buttonOption3.TabIndex = 4;
             this.buttonOption3.Text = "Option 3";
             this.buttonOption3.UseVisualStyleBackColor = false;
@@ -118,9 +123,10 @@
             this.buttonOption4.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.buttonOption4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonOption4.Font = new System.Drawing.Font("Arial Rounded MT Bold", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonOption4.Location = new System.Drawing.Point(51, 270);
+            this.buttonOption4.Location = new System.Drawing.Point(68, 332);
+            this.buttonOption4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.buttonOption4.Name = "buttonOption4";
-            this.buttonOption4.Size = new System.Drawing.Size(295, 43);
+            this.buttonOption4.Size = new System.Drawing.Size(393, 53);
             this.buttonOption4.TabIndex = 5;
             this.buttonOption4.Text = "Option 4";
             this.buttonOption4.UseVisualStyleBackColor = false;
@@ -130,9 +136,10 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F);
-            this.label2.Location = new System.Drawing.Point(92, 333);
+            this.label2.Location = new System.Drawing.Point(123, 410);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(98, 31);
+            this.label2.Size = new System.Drawing.Size(121, 39);
             this.label2.TabIndex = 6;
             this.label2.Text = "Points:";
             // 
@@ -140,9 +147,10 @@
             // 
             this.Points.AutoSize = true;
             this.Points.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F);
-            this.Points.Location = new System.Drawing.Point(190, 334);
+            this.Points.Location = new System.Drawing.Point(253, 411);
+            this.Points.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.Points.Name = "Points";
-            this.Points.Size = new System.Drawing.Size(29, 31);
+            this.Points.Size = new System.Drawing.Size(36, 39);
             this.Points.TabIndex = 7;
             this.Points.Text = "0";
             // 
@@ -150,26 +158,29 @@
             // 
             this.comboLabel.AutoSize = true;
             this.comboLabel.Font = new System.Drawing.Font("MS Reference Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.comboLabel.Location = new System.Drawing.Point(284, 333);
+            this.comboLabel.Location = new System.Drawing.Point(379, 410);
+            this.comboLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.comboLabel.Name = "comboLabel";
-            this.comboLabel.Size = new System.Drawing.Size(0, 20);
+            this.comboLabel.Size = new System.Drawing.Size(0, 26);
             this.comboLabel.TabIndex = 8;
             // 
             // comboNumberlabel
             // 
             this.comboNumberlabel.AutoSize = true;
             this.comboNumberlabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.comboNumberlabel.Location = new System.Drawing.Point(321, 353);
+            this.comboNumberlabel.Location = new System.Drawing.Point(428, 434);
+            this.comboNumberlabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.comboNumberlabel.Name = "comboNumberlabel";
-            this.comboNumberlabel.Size = new System.Drawing.Size(0, 20);
+            this.comboNumberlabel.Size = new System.Drawing.Size(0, 25);
             this.comboNumberlabel.TabIndex = 9;
             // 
             // plusLastAnswer
             // 
             this.plusLastAnswer.AutoSize = true;
-            this.plusLastAnswer.Location = new System.Drawing.Point(251, 364);
+            this.plusLastAnswer.Location = new System.Drawing.Point(335, 448);
+            this.plusLastAnswer.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.plusLastAnswer.Name = "plusLastAnswer";
-            this.plusLastAnswer.Size = new System.Drawing.Size(0, 13);
+            this.plusLastAnswer.Size = new System.Drawing.Size(0, 16);
             this.plusLastAnswer.TabIndex = 10;
             // 
             // testTimer
@@ -179,11 +190,12 @@
             // 
             // timerBar
             // 
-            this.timerBar.Location = new System.Drawing.Point(51, 93);
+            this.timerBar.Location = new System.Drawing.Point(68, 114);
+            this.timerBar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.timerBar.MarqueeAnimationSpeed = 50;
             this.timerBar.Maximum = 1000;
             this.timerBar.Name = "timerBar";
-            this.timerBar.Size = new System.Drawing.Size(295, 24);
+            this.timerBar.Size = new System.Drawing.Size(393, 30);
             this.timerBar.Step = 1000;
             this.timerBar.Style = System.Windows.Forms.ProgressBarStyle.Continuous;
             this.timerBar.TabIndex = 100;
@@ -199,9 +211,10 @@
             this.muteVolumeButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 5F);
             this.muteVolumeButton.ImageIndex = 0;
             this.muteVolumeButton.ImageList = this.imageList1;
-            this.muteVolumeButton.Location = new System.Drawing.Point(399, 44);
+            this.muteVolumeButton.Location = new System.Drawing.Point(532, 54);
+            this.muteVolumeButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.muteVolumeButton.Name = "muteVolumeButton";
-            this.muteVolumeButton.Size = new System.Drawing.Size(26, 26);
+            this.muteVolumeButton.Size = new System.Drawing.Size(35, 32);
             this.muteVolumeButton.TabIndex = 101;
             this.muteVolumeButton.UseVisualStyleBackColor = true;
             this.muteVolumeButton.Click += new System.EventHandler(this.muteVolumeButton_Click);
@@ -219,9 +232,10 @@
             // 
             this.TimeOutLabel.AutoSize = true;
             this.TimeOutLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 45F);
-            this.TimeOutLabel.Location = new System.Drawing.Point(23, 141);
+            this.TimeOutLabel.Location = new System.Drawing.Point(47, 174);
+            this.TimeOutLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.TimeOutLabel.Name = "TimeOutLabel";
-            this.TimeOutLabel.Size = new System.Drawing.Size(385, 69);
+            this.TimeOutLabel.Size = new System.Drawing.Size(479, 85);
             this.TimeOutLabel.TabIndex = 102;
             this.TimeOutLabel.Text = "TIME\'S OUT!";
             this.TimeOutLabel.Visible = false;
@@ -230,9 +244,10 @@
             // 
             this.newRecord1Label.AutoSize = true;
             this.newRecord1Label.Font = new System.Drawing.Font("Microsoft Sans Serif", 40F);
-            this.newRecord1Label.Location = new System.Drawing.Point(39, 100);
+            this.newRecord1Label.Location = new System.Drawing.Point(86, 132);
+            this.newRecord1Label.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.newRecord1Label.Name = "newRecord1Label";
-            this.newRecord1Label.Size = new System.Drawing.Size(325, 63);
+            this.newRecord1Label.Size = new System.Drawing.Size(403, 76);
             this.newRecord1Label.TabIndex = 103;
             this.newRecord1Label.Text = "YOU GOT A";
             this.newRecord1Label.Visible = false;
@@ -241,9 +256,10 @@
             // 
             this.newRecord2Label.AutoSize = true;
             this.newRecord2Label.Font = new System.Drawing.Font("Microsoft Sans Serif", 40F);
-            this.newRecord2Label.Location = new System.Drawing.Point(9, 197);
+            this.newRecord2Label.Location = new System.Drawing.Point(37, 241);
+            this.newRecord2Label.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.newRecord2Label.Name = "newRecord2Label";
-            this.newRecord2Label.Size = new System.Drawing.Size(416, 63);
+            this.newRecord2Label.Size = new System.Drawing.Size(514, 76);
             this.newRecord2Label.TabIndex = 104;
             this.newRecord2Label.Text = "NEW RECORD!";
             this.newRecord2Label.Visible = false;
@@ -254,9 +270,10 @@
             this.plusVolumeBut.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
             this.plusVolumeBut.ImageIndex = 2;
             this.plusVolumeBut.ImageList = this.imageList1;
-            this.plusVolumeBut.Location = new System.Drawing.Point(399, 12);
+            this.plusVolumeBut.Location = new System.Drawing.Point(532, 15);
+            this.plusVolumeBut.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.plusVolumeBut.Name = "plusVolumeBut";
-            this.plusVolumeBut.Size = new System.Drawing.Size(26, 26);
+            this.plusVolumeBut.Size = new System.Drawing.Size(35, 32);
             this.plusVolumeBut.TabIndex = 105;
             this.plusVolumeBut.UseVisualStyleBackColor = true;
             this.plusVolumeBut.Click += new System.EventHandler(this.plusvolumeBut_Click);
@@ -267,9 +284,10 @@
             this.minusVolumeBut.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
             this.minusVolumeBut.ImageIndex = 3;
             this.minusVolumeBut.ImageList = this.imageList1;
-            this.minusVolumeBut.Location = new System.Drawing.Point(399, 76);
+            this.minusVolumeBut.Location = new System.Drawing.Point(532, 94);
+            this.minusVolumeBut.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.minusVolumeBut.Name = "minusVolumeBut";
-            this.minusVolumeBut.Size = new System.Drawing.Size(26, 26);
+            this.minusVolumeBut.Size = new System.Drawing.Size(35, 32);
             this.minusVolumeBut.TabIndex = 106;
             this.minusVolumeBut.UseVisualStyleBackColor = true;
             this.minusVolumeBut.Click += new System.EventHandler(this.minusVolumeBut_Click);
@@ -277,16 +295,16 @@
             // volumeLevel
             // 
             this.volumeLevel.AutoSize = true;
-            this.volumeLevel.Location = new System.Drawing.Point(367, 49);
+            this.volumeLevel.Location = new System.Drawing.Point(489, 60);
+            this.volumeLevel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.volumeLevel.Name = "volumeLevel";
-            this.volumeLevel.Size = new System.Drawing.Size(0, 13);
+            this.volumeLevel.Size = new System.Drawing.Size(0, 16);
             this.volumeLevel.TabIndex = 107;
             // 
             // Test_Form2
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(437, 391);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
+            this.ClientSize = new System.Drawing.Size(583, 481);
             this.Controls.Add(this.volumeLevel);
             this.Controls.Add(this.minusVolumeBut);
             this.Controls.Add(this.plusVolumeBut);
@@ -307,12 +325,14 @@
             this.Controls.Add(this.CountryAskedLabel);
             this.Controls.Add(this.label1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Test_Form2";
             this.Text = "The capital\'s test";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Test_Form2_FormClosing);
             this.Shown += new System.EventHandler(this.Test_Form2_Shown);
             this.ResumeLayout(false);
             this.PerformLayout();
+
         }
 
         #endregion

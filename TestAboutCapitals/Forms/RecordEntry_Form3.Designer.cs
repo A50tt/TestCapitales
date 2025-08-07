@@ -44,9 +44,10 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Yu Gothic", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(23, 33);
+            this.label1.Location = new System.Drawing.Point(31, 41);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(425, 35);
+            this.label1.Size = new System.Drawing.Size(533, 43);
             this.label1.TabIndex = 0;
             this.label1.Text = "Enter your alias for eternal glory:";
             // 
@@ -54,10 +55,11 @@
             // 
             this.textBox1.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 50F);
-            this.textBox1.Location = new System.Drawing.Point(148, 86);
+            this.textBox1.Location = new System.Drawing.Point(197, 106);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBox1.MaxLength = 3;
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(164, 83);
+            this.textBox1.Size = new System.Drawing.Size(217, 102);
             this.textBox1.TabIndex = 1;
             this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.textBox1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox1_KeyDown);
@@ -66,9 +68,10 @@
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
             this.button1.ImageList = this.imageList1;
-            this.button1.Location = new System.Drawing.Point(148, 181);
+            this.button1.Location = new System.Drawing.Point(197, 223);
+            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(164, 33);
+            this.button1.Size = new System.Drawing.Size(219, 41);
             this.button1.TabIndex = 2;
             this.button1.Text = "LET\'S GO!!";
             this.button1.UseVisualStyleBackColor = true;
@@ -88,9 +91,10 @@
             this.muteVolumeButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 5F);
             this.muteVolumeButton.ImageIndex = 0;
             this.muteVolumeButton.ImageList = this.imageList1;
-            this.muteVolumeButton.Location = new System.Drawing.Point(402, 188);
+            this.muteVolumeButton.Location = new System.Drawing.Point(536, 231);
+            this.muteVolumeButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.muteVolumeButton.Name = "muteVolumeButton";
-            this.muteVolumeButton.Size = new System.Drawing.Size(26, 26);
+            this.muteVolumeButton.Size = new System.Drawing.Size(35, 32);
             this.muteVolumeButton.TabIndex = 102;
             this.muteVolumeButton.UseVisualStyleBackColor = true;
             this.muteVolumeButton.Click += new System.EventHandler(this.muteVolumeButton_Click);
@@ -101,9 +105,10 @@
             this.plusVolumeBut.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
             this.plusVolumeBut.ImageIndex = 2;
             this.plusVolumeBut.ImageList = this.imageList1;
-            this.plusVolumeBut.Location = new System.Drawing.Point(434, 188);
+            this.plusVolumeBut.Location = new System.Drawing.Point(579, 231);
+            this.plusVolumeBut.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.plusVolumeBut.Name = "plusVolumeBut";
-            this.plusVolumeBut.Size = new System.Drawing.Size(26, 26);
+            this.plusVolumeBut.Size = new System.Drawing.Size(35, 32);
             this.plusVolumeBut.TabIndex = 106;
             this.plusVolumeBut.UseVisualStyleBackColor = true;
             this.plusVolumeBut.Click += new System.EventHandler(this.plusVolumeBut_Click);
@@ -114,9 +119,10 @@
             this.minusVolumeBut.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
             this.minusVolumeBut.ImageIndex = 3;
             this.minusVolumeBut.ImageList = this.imageList1;
-            this.minusVolumeBut.Location = new System.Drawing.Point(370, 188);
+            this.minusVolumeBut.Location = new System.Drawing.Point(493, 231);
+            this.minusVolumeBut.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.minusVolumeBut.Name = "minusVolumeBut";
-            this.minusVolumeBut.Size = new System.Drawing.Size(26, 26);
+            this.minusVolumeBut.Size = new System.Drawing.Size(35, 32);
             this.minusVolumeBut.TabIndex = 107;
             this.minusVolumeBut.UseVisualStyleBackColor = true;
             this.minusVolumeBut.Click += new System.EventHandler(this.minusVolumeBut_Click);
@@ -124,17 +130,17 @@
             // volumeLevel
             // 
             this.volumeLevel.AutoSize = true;
-            this.volumeLevel.Location = new System.Drawing.Point(337, 194);
+            this.volumeLevel.Location = new System.Drawing.Point(449, 239);
+            this.volumeLevel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.volumeLevel.Name = "volumeLevel";
-            this.volumeLevel.Size = new System.Drawing.Size(33, 13);
+            this.volumeLevel.Size = new System.Drawing.Size(40, 16);
             this.volumeLevel.TabIndex = 108;
             this.volumeLevel.Text = "100%";
             // 
             // RecordEntry
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(472, 226);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
+            this.ClientSize = new System.Drawing.Size(626, 278);
             this.Controls.Add(this.volumeLevel);
             this.Controls.Add(this.minusVolumeBut);
             this.Controls.Add(this.plusVolumeBut);
@@ -143,6 +149,8 @@
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.MaximizeBox = false;
             this.Name = "RecordEntry";
             this.Text = "The capital\'s test";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.RecordEntry_FormClosed);

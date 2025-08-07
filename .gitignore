@@ -1,0 +1,7 @@
+.vs/
+TestAboutCapitals/.vs/
+TestAboutCapitals/bin
+TestAboutCapitals/obj
+*.exe.config
+*.pdb
+*.sln

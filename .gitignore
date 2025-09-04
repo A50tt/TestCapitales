@@ -1,7 +1,10 @@
+# Visual Studio user-specific and config files
 .vs/
 TestAboutCapitals/.vs/
 TestAboutCapitals/bin
 TestAboutCapitals/obj
 *.exe.config
 *.pdb
-*.sln
+
+# Local generated data
+TestAboutCapitals/assets/files/dboScoreboard.txt

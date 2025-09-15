@@ -4,7 +4,9 @@ TestAboutCapitals/.vs/
 TestAboutCapitals/bin
 TestAboutCapitals/obj
 *.exe.config
+*.exe
 *.pdb
 
 # Local generated data
 TestAboutCapitals/assets/files/dboScoreboard.txt
+
